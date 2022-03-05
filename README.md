@@ -1,7 +1,3 @@
-[![][patreon]](https://www.patreon.com/kraymer)
-
-[patreon]: https://img.shields.io/badge/-%E2%99%A1%20Donate%20-ff69b4
-
 # Ex commito <[kray.me](kray.me)>
 
 *Ex commito* is the place where I track my open-source activity.  
