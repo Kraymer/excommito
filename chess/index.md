@@ -2,6 +2,9 @@
 layout:       page
 title:        Chess post-mortems
 ---
+[thatAL](https://www.chess.com/game/live/54475143611): 📖 Theory (Caro Kann)  
+[kyawlinphyoe](https://www.chess.com/analysis/game/live/54454171881?tab=review): 🗡 Pin / 🗡 Fork / 🗡 Calculation  
+[SjefenS](https://www.chess.com/analysis/game/live/54386443797?tab=review): 🗡 Pin / 🗡 Kick knight /  🗡 Break center / 🗡 Centralize Queen  
 [jpoyn](https://www.chess.com/analysis/game/live/54333052535?tab=review): 🗡 Passed pawn push / 🗡 King endgame   
 [Ctdex](https://www.chess.com/game/live/54308452521): 🛡 Calculation  
 [Ashok1407](https://www.chess.com/game/live/54305990039): 📖 Opening principles / 🗡 Calculation  
