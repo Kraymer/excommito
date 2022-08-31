@@ -2,6 +2,10 @@
 layout:       page
 title:        Chess post-mortems
 ---
+
+[ImagineWagonz1_1](https://www.chess.com/analysis/game/live/54540581137?tab=review): 📖 Opening principles / 🗡 Fork   
+[brunomfguilherme](https://www.chess.com/analysis/game/live/54511171299?tab=review): ❓ Fork / 🗡 Pin / 🗡 King endgame    
+[2monk](https://www.chess.com/analysis/game/live/54509997241?tab=review): 🗡 Pin / ❓ Queen blunder / 🗡 Endgame
 [thatAL](https://www.chess.com/game/live/54475143611): 📖 Theory (Caro Kann)  
 [kyawlinphyoe](https://www.chess.com/analysis/game/live/54454171881?tab=review): 🗡 Pin / 🗡 Fork / 🗡 Calculation  
 [SjefenS](https://www.chess.com/analysis/game/live/54386443797?tab=review): 🗡 Pin / 🗡 Kick knight /  🗡 Break center / 🗡 Centralize Queen  
