@@ -3,7 +3,7 @@ title: Importing chess book exercise into Lichess etude using OCR
 description: Create a new chapter in an etude by taking a picture of a printed checkboard 
 dropcaps: true
 published: true
-comments: https://www.reddit.com/r/aws/comments/agdjtl/autokill_detached_anonymous_ec2_instances/
+comments: https://www.reddit.com/r/chess/comments/xgnb0o/comment/iospyu6/
 tags:
 - chess
 ---
@@ -16,6 +16,6 @@ Here is how I proceed to practise book exercises using Lichess etudes :
 2- open [Chessvision.ai](https://chessvision.ai/) application on your smartphone and take a picture of the checkboard  
 3- click the ☰ button and press _Etude_, select the aforementioned etude  
 4- scroll down and click ⚙ to edit the name of the created chapter   
- 
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ognKG56d5As" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
