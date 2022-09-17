@@ -12,9 +12,9 @@ Yet, for casual players that play exclusively online, setting up a chessboard ca
 
 Here is how I proceed to practise book exercises using Lichess etudes :  
 
-1- create and etude on Lichess named after the book  
+1- create a study on Lichess named after the book  
 2- open [Chessvision.ai](https://chessvision.ai/) application on your smartphone and take a picture of the checkboard  
-3- click the ☰ button and press _Etude_, select the aforementioned etude  
+3- click the ☰ button and press _Study_, select the aforementioned study  
 4- scroll down and click ⚙ to edit the name of the created chapter   
 
 
