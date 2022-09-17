@@ -17,6 +17,4 @@ Here is how I proceed to practise book exercises using Lichess etudes :
 3- click the ☰ button and press _Etude_, select the aforementioned etude
 4- scroll down and click ⚙ to edit the name of the created chapter
 
-
-<iframe src="https://www.youtube.com/watch?v=ognKG56d5As?wmode=transparent" allowfullscreen frameborder="0" height="417" width="500"></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ognKG56d5As" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
