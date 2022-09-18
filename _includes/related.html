@@ -23,5 +23,13 @@
             {% endif %}
         {% endfor %}
     {% endfor %}
+    
+    {% for page in site.pages %}
+        {% for tag in page.tags %}
+            {% if tag == tag_name %}
+                {% include post-list-item.html post=page format="%m/%d/%y" %}
+            {% endif %}
+        {% endfor %}
+    {% endfor %}
   </ul>
 </aside>
