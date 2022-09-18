@@ -1,6 +1,8 @@
 ---
 layout:       page
 title:        Chess post-mortems
+tags:
+- chess
 ---
 
 [ImagineWagonz1_1](https://www.chess.com/analysis/game/live/54540581137?tab=review): 📖 Opening principles ‧ 🗡 Fork   

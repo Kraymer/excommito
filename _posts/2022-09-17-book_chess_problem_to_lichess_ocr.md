@@ -6,6 +6,7 @@ published: true
 comments: https://www.reddit.com/r/chess/comments/xgnb0o/comment/iospyu6/
 tags:
 - chess
+- lichess
 ---
 A common advice when reading a chess book is to reproduce the exercices OTB.  
 Yet, for casual players that play exclusively online, setting up a chessboard can be a burden. Without it, visualizing the exercice becomes a tedious task, and make the overall experience less enjoyable.
