@@ -4,7 +4,8 @@ title:        Chess post-mortems
 tags:
 - chess
 ---
-
+[mohammed254](https://www.chess.com/analysis/game/live/54543546711?tab=review): 🛡 Undefended piece  
+[Dubiouspawn ](https://www.chess.com/analysis/game/live/54542373529?tab=analysis): 🗡 Calculation
 [ImagineWagonz1_1](https://www.chess.com/analysis/game/live/54540581137?tab=review): 📖 Opening principles ‧ 🗡 Fork   
 [brunomfguilherme](https://www.chess.com/analysis/game/live/54511171299?tab=review): ❓ Fork ‧ 🗡 Pin ‧ 🗡 King endgame    
 [2monk](https://www.chess.com/analysis/game/live/54509997241?tab=review): 🗡 Pin ‧ ❓ Queen blunder ‧ 🗡 Endgame  
