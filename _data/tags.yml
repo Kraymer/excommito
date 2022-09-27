@@ -69,6 +69,13 @@ unix:
   description: >
     Whether it's Mac OS X at home or Ubuntu at work.
 
+chess:
+  name: Chess
+  rss: true
+  image: /public/img/chess.jpg
+  description: >
+    The game of kings
+    
 aws:
   name: AWS
   rss: false
