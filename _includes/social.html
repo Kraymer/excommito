@@ -183,8 +183,8 @@
     {% include social-list-item.html platform=platform url=url %}
   {% endif %}
 
-  {% if platform == "chesscom" %}
-    {% assign url = "https://www.chess.com/member/" | append: username %}
+  {% if platform == "lichess" %}
+    {% assign url = "https://lichess.org/@/" | append: username %}
     {% include social-list-item.html platform=platform url=url %}
   {% endif %}
   
