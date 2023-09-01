@@ -15,7 +15,7 @@ layout: default
 
   <hr/>
 {% else %}
-  {% assign posts = site.posts %}
+  {% assign posts = site.posts | where_exp:"item", "item.public != false" %}
 {% endif %}
 
 {% for post in posts %}
