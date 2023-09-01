@@ -3,7 +3,8 @@ title: Swiss holidays
 description: blah
 flag: 🇨🇭
 tag: travel
-dropcaps: falseplugins:
+dropcaps: false
+plugins:
   - jekyll-maps
 published: true
 public: false
