@@ -3,23 +3,12 @@ title: Swiss holidays
 description: blah
 flag: 🇨🇭
 tag: travel
-dropcaps: false
+dropcaps: falseplugins:
+  - jekyll-maps
 published: true
 public: false
 image: /public/img/tags/travel/swiss.jpg
-location:
-  - latitude: 51.5285582
-    longitude: -0.2416807
-  - latitude: 52.5285582
-    longitude: -2.2416807
-  - title: custom marker title
-    image: custom marker image
-    url: custom marker url
-    latitude: 51.5285582
-    longitude: -0.2416807
 ---
-
-{% google_map %}
 
 ## Mardi 29 Août : zoo de Basel
 
