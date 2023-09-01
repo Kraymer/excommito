@@ -2,11 +2,16 @@
 plugins:
   - jekyll-feed
   - jekyll-github-metadata
+  - jekyll-maps
   - jekyll-redirect-from
-  - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-sitemap
   - jemoji
-
+  
+maps:
+  google:
+    api_key:      'AIzaSyDiswWoiEpfb14st7-VcFPtzLimC5Bhr4k'
+    
 # Permalinks
 permalink: /:categories/:year/:month/:title/
 

@@ -24,6 +24,7 @@ group :jekyll_plugins do
    gem "jekyll-sitemap"
    gem "jekyll-gist"
    gem "jemoji"
+   gem 'jekyll-maps'
    gem "jekyll-redirect-from"
    gem "jekyll-github-metadata"
    gem 'jekyll-seo-tag'
