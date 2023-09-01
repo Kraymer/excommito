@@ -3,6 +3,7 @@
   <small>
     <time datetime="{{ post.date | date_to_xmlschema }}"><b>{{ post.date | date: include.format }}</b></time>
     {% if post.draft %}DRAFT{% endif %}
+    {% if post.flag %}{{ post.flag }}{% endif %}
   </small>
     
   <a href="{{ post.url | prepend:site.baseurl }}">
