@@ -6,8 +6,10 @@ tag: travel
 dropcaps: false
 published: true
 public: false
+sitemap: false
 image: /public/img/tags/travel/swiss.jpg
 ---
+<meta name="robots" content="noindex">
 
 ## 27-29 Août : Gruyères, chocolat Cailler et kebab
 
