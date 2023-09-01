@@ -25,7 +25,7 @@ tagline: Kraymer's technical blog
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:         >
-  [`@kraymer`{:style="background: rgba(255, 255, 255, 0.15)"}](mailto:kraymer+excommito@gmail.com) technical musings
+  [`@kraymer`{:style="background: rgba(255, 255, 255, 0.15)"}](mailto:kraymer+excommito@gmail.com) recorded thoughts
 
 # The tags listed as entries in the sidebar
 sidebar_tags:        [open-source, music-management]
