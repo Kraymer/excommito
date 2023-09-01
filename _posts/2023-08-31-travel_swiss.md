@@ -9,7 +9,16 @@ public: false
 sitemap: false
 image: /public/img/tags/travel/swiss.jpg
 ---
-<meta name="robots" content="noindex">
+
+
+## 24 Août : Ebenalp Ascher - Seealpsee Lake
+
+https://photos.app.goo.gl/6c3xvSrVBxfbHFoS7
+
+## 25-26 Août : Alpes pennines
+
+https://photos.app.goo.gl/2hbwbGTafti4JsoXA
+
 
 ## 27-29 Août : Gruyères, chocolat Cailler et kebab
 
