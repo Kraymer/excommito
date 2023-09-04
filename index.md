@@ -7,7 +7,7 @@ redirect_from:
 - /blog
 ---
 
-{% assign posts = site.posts | where_exp:"item", "item.public != false" %}
+{% assign posts = site.posts | where_exp:"item", "item.sitemap != false" %}
 
 <div class="blog-index">
   {% assign post = posts.first %}
