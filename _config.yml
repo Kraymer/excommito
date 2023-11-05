@@ -132,5 +132,7 @@ collections:
   drafts:
     output: true
     permalink: /:collection/:name
-
+  chess:
+    output: true
+    permalink: /:collection/:name
 
