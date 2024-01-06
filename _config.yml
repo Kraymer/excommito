@@ -5,7 +5,9 @@ plugins:
   - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-timeago
   - jemoji
+  
 
   
 maps:
