@@ -26,6 +26,12 @@ list:
       author: Jérôme Hamon & Marc Van Straceele
       year: 2020
 
+    - title: Les montagnes hallucinées
+      author: H. P. Lovecraft                                                                                         
+                                                                                       ;
+    - title: "Dans l'Abîme du Temps"
+      author: H. P. Lovecraft 
+
   - year: "2010s"
     books:
       - title: "Conquest: Montezuma, Cortes and the Fall of Old Mexico"
@@ -37,6 +43,19 @@ list:
         genre: sci-fi
         author: Adrian Tchaikovsky
         year: 2019
+        star: yes
+
+      - title: Into the Wild
+        author: Jon Krakauer
+
+      - title: Into Thin Air
+        author: Jon Krakauer
+        star: yes
+
+      - title: In the Plex: How Google Thinks, Works, and Shapes Our Lives
+        author: Steven Levy
+        genre: tech
+
 
   - year: "2000s"
     books:
