@@ -19,6 +19,24 @@ list:
       - title: Ubik
         author: Philip K. Dick 
 
+  - year: "2020s"
+
+    - title: "Yokozuna - Tome 1 to 2"
+      genre: manga
+      author: Jérôme Hamon & Marc Van Straceele
+      year: 2020
+
+  - year: "2010s"
+    books:
+      - title: "Conquest: Montezuma, Cortes and the Fall of Old Mexico"
+        genre: history
+        author: Hugh Thomas
+        year: 2019
+
+      - title: "Dans la toile du temps"
+        genre: sci-fi
+        author: Adrian Tchaikovsky
+        year: 2019
 
   - year: "Before"
     books:
