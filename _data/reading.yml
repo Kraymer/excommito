@@ -1,0 +1,70 @@
+list:
+
+  - year: "In progress"
+    books:
+      - title: "Midnight in Chernobyl"
+        author: Adam Higginbotham
+        link: https://amzn.to/2ZMtUuC
+        start_date: 30th December 2023
+               
+  - year: "2023"
+    books:
+      - title: "Bartleby le scribe"
+        author: Herman Melville
+
+      - title: "La Promesse de l'aube"
+        author: Romain Gary
+        star: yes
+        
+      - title: Ubik
+        author: Philip K. Dick 
+
+
+  - year: "Before"
+    books:
+      - title: Fondation
+        author: Isaac Asimov
+        
+      - title: Tokyo Vice
+        author: Jake Adelstein
+        star: yes
+        
+      - title: Masters of Doom
+        author: David Kushner
+        star: yes
+        
+      - title: Un roman français
+        author: Frédéric Beigbeder
+        
+      - title: American Prometheus
+        author: Kai Bird
+        
+      - title: Farenheit 451
+        author: Ray Bradbury
+        
+      - title: Les chroniques martiennes
+        author: Ray Bradbury
+        
+      - title: La Peste
+        author: Albert Camus
+        
+      - title: Ender's Game
+        author: Orson Scott Card
+        star: yes
+        
+      - title: Axiomatique
+        author: Greg Egan
+        
+      - title: What Do You Care What Other People Think?
+        author: Richard P Feynman
+        star: yes
+        
+      - title: Sapiens
+        author: Yuval Noah Harari
+        star: yes
+
+      - title: "Homo Deus: A Brief History of Tomorrow"
+        author: Yuval Noah Harari
+
+      - title: Extension du domaine de la lutte
+        author: Michel Houellebecq  
