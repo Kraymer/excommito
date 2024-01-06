@@ -20,7 +20,7 @@ list:
         author: Philip K. Dick 
 
   - year: "2020s"
-
+    books:
     - title: "Yokozuna - Tome 1 to 2"
       genre: manga
       author: Jérôme Hamon & Marc Van Straceele
@@ -38,7 +38,7 @@ list:
         author: Adrian Tchaikovsky
         year: 2019
 
-  - year: "Before"
+  - year: "2000s"
     books:
       - title: Fondation
         author: Isaac Asimov
