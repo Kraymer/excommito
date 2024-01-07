@@ -4,7 +4,6 @@ list:
     books:
       - title: "Midnight in Chernobyl"
         author: Adam Higginbotham
-        link: https://amzn.to/2ZMtUuC
         start_date: 30th December 2023
                
   - year: "2023"
@@ -19,8 +18,13 @@ list:
       - title: Ubik
         author: Philip K. Dick 
 
-  - year: "2020s"
+  - year: "Past years"
     books:
+      
+    - title: "Who was Walt Disney?"
+      author: Whitney Stewart 
+      genre: biography
+        
     - title: "Yokozuna - Tome 1 to 2"
       genre: manga
       author: Jérôme Hamon & Marc Van Straceele
@@ -32,76 +36,88 @@ list:
     - title: "Dans l'Abîme du Temps"
       author: H. P. Lovecraft 
 
-  - year: "2010s"
-    books:
-      - title: "Conquest: Montezuma, Cortes and the Fall of Old Mexico"
-        genre: history
-        author: Hugh Thomas
-        year: 2019
+    - title : "L'Homme dans le labyrinthe"
+      author : Dan Simmons
+      
+    - title: "Conquest: Montezuma, Cortes and the Fall of Old Mexico"
+      genre: history
+      author: Hugh Thomas
+      year: 2019
 
-      - title: "Dans la toile du temps"
-        genre: sci-fi
-        author: Adrian Tchaikovsky
-        year: 2019
-        star: yes
+    - title: 1Q84
+      author: Haruki Murakami
 
-      - title: Into the Wild
-        author: Jon Krakauer
+    - title: "Dans la toile du temps"
+      genre: sci-fi
+      author: Adrian Tchaikovsky
+      year: 2019
+      star: yes
 
-      - title: Into Thin Air
-        author: Jon Krakauer
-        star: yes
+    - title: The Making of the Atomic bomb
+      author: Richard Rhodes
 
-      - title: "In the Plex: How Google Thinks, Works, and Shapes Our Lives"
-        author: Steven Levy
-        genre: tech
+    - title: Into the Wild
+      author: Jon Krakauer
 
+    - title: Into Thin Air
+      author: Jon Krakauer
+      star: yes
 
-  - year: "2000s"
-    books:
-      - title: Fondation
-        author: Isaac Asimov
-        
-      - title: Tokyo Vice
-        author: Jake Adelstein
-        star: yes
-        
-      - title: Masters of Doom
-        author: David Kushner
-        star: yes
-        
-      - title: Un roman français
-        author: Frédéric Beigbeder
-        
-      - title: American Prometheus
-        author: Kai Bird
-        
-      - title: Farenheit 451
-        author: Ray Bradbury
-        
-      - title: Les chroniques martiennes
-        author: Ray Bradbury
-        
-      - title: La Peste
-        author: Albert Camus
-        
-      - title: Ender's Game
-        author: Orson Scott Card
-        star: yes
-        
-      - title: Axiomatique
-        author: Greg Egan
-        
-      - title: What Do You Care What Other People Think?
-        author: Richard P Feynman
-        star: yes
-        
-      - title: Sapiens
-        author: Yuval Noah Harari
-        star: yes
+    - title: "In the Plex: How Google Thinks, Works, and Shapes Our Lives"
+      author: Steven Levy
+      genre: tech
 
-      - title: "Homo Deus: A Brief History of Tomorrow"
-        author: Yuval Noah Harari
+    - title: Riding Rockets
+      author: Mike Mullane
+      star: yes
 
-      - title: Extension du domaine de la lutte
-        author: Michel Houellebecq  
+    - title: Fondation
+      author: Isaac Asimov
+      
+    - title: Tokyo Vice
+      author: Jake Adelstein
+      star: yes
+      
+    - title: Masters of Doom
+      author: David Kushner
+      star: yes
+      
+    - title: Un roman français
+      author: Frédéric Beigbeder
+      
+    - title: American Prometheus
+      author: Kai Bird
+      
+    - title: Farenheit 451
+      author: Ray Bradbury
+      
+    - title: Les chroniques martiennes
+      author: Ray Bradbury
+      
+    - title: La Peste
+      author: Albert Camus
+      
+    - title: Ender's Game
+      author: Orson Scott Card
+      star: yes
+      
+    - title: Axiomatique
+      author: Greg Egan
+      
+    - title: What Do You Care What Other People Think?
+      author: Richard P Feynman
+      star: yes
+      
+    - title: Sapiens
+      author: Yuval Noah Harari
+      star: yes
+
+    - title: "Homo Deus: A Brief History of Tomorrow"
+      author: Yuval Noah Harari
+
+    - title: Extension du domaine de la lutte
+      author: Michel Houellebecq  
+
+    - title: 1984
+      author: George ORwell
+      star: yes
