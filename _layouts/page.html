@@ -7,10 +7,12 @@ layout: default
   {% if page.link %}<a href="{{ page.link }}">{% endif %}
     {{ page.title }}
   {% if page.link contains "github.com" %}<i class='fa fa-github'></i>{% endif %}
-  {% if page.link contains "newsblur.com" %}<img src='/public/img/newsblur.png' width=28>{% endif %}
-  {% if page.link %}</a>{% endif %}
+  {% if page.link %}
+  </a>{% endif %}
   </h1>
 
   <hr/>
+  <div class="{{ articleclass }} post-content" itemprop="articleBody">
   {{ content }}
+  </div>
 </article>
