@@ -8,7 +8,10 @@ plugins:
   - jekyll-timeago
   - jemoji
   
-
+feed:
+  tags:
+    except:
+      - private
   
 maps:
   google:

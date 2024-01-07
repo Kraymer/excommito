@@ -1,7 +1,9 @@
 ---
 title: Occitanie
 flag: 🇫🇷
-tag: travel
+tag: 
+    - travel
+    - private
 dropcaps: false
 published: true
 public: false
