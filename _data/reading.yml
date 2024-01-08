@@ -10,7 +10,23 @@ list:
     books:
       - title: "Bartleby le scribe"
         author: Herman Melville
+        
+      - title: "Le coup du fou"
+        author: Alessandro Barbaglia
 
+      - title: "Le Dernier des yakuzas"
+        author: Jake Adelstein
+      
+      - title: "La Mort immortelle"
+        author: Liu Cixin
+        
+      - title: "La Forêt sombre"
+        author: Liu Cixin
+        star: yes
+        
+      - title: "Le Problème à trois corps"
+        author: Liu Cixin
+      
       - title: "La Promesse de l'aube"
         author: Romain Gary
         star: yes
@@ -30,6 +46,26 @@ list:
   - year: "Past years"
     books:
     
+    - title: "Cibola Burn"
+      author: James S. A. Corey
+    
+    - title: "The Ghosts of Cannae"
+      author: Robert L. O'Connell
+      genre: history
+      
+    - title: "Live from Cape Canaveral"
+      author: Jay Barbree
+    
+    - title: "Vivre vite"
+      author: Brigitte Giraud
+      star: yes
+    
+    - title: "Trial by ice"
+      author: Richard Parry
+    
+    - title: "Waterloo: June 18, 1815: The Battle for modern Europe"
+      author: Andrew Roberts
+    
     - title: "Les Délices de Tokyo"
       author: Durian Sukegawa 
         
@@ -39,6 +75,9 @@ list:
 
     - title: "La Peste"
       author: Albert Camus
+    
+    - title: "Le Compte de Monte-Cristo"
+      author: Alexandre Dumas
       
     - title: "Yokozuna - Tome 1 to 2"
       genre: manga
@@ -47,7 +86,10 @@ list:
 
     - title: "Metro 2033"
       author: Dmitry Glukhovsky
-
+    
+    - title: "Creativity, Inc. : Overcoming the Unseen Forces That Stand in the Way of True Inspiration"
+      author: Ed Catmull
+      
     - title: "Les Montagnes hallucinées"
       author: H. P. Lovecraft                                                                                         
                                                                                        ;
