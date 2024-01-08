@@ -9,6 +9,7 @@ plugins:
   - jemoji
   
 feed:
+  excerpt_only: true
   tags:
     except:
       - private
