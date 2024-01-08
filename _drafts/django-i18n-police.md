@@ -23,4 +23,4 @@ When tests break it yells on your slack dev channel complaining that a translati
 You can configure your poeditor API key to have stats about projects completions and links pointing to 
 translations to edit in case of errors.
 
-`TODO`: open source the code
+- [ ] `TODO`: open source the code

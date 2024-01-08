@@ -9,18 +9,15 @@ plugins:
   - jemoji
   
 feed:
+  excerpt_only: true
   tags:
     except:
       - private
-  
-maps:
-  google:
-    api_key:      'AIzaSyDiswWoiEpfb14st7-VcFPtzLimC5Bhr4k'
     
 # Permalinks
 permalink: /:categories/:year/:month/:title/
 
-repository: kraymer/hydejack
+repository: kraymer/excommito
 
 # Setup
 url:                 kray.me
