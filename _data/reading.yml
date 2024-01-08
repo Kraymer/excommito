@@ -15,22 +15,40 @@ list:
         author: Romain Gary
         star: yes
         
-      - title: Ubik
+      - title: "Ubik"
         author: Philip K. Dick 
+        
+      - title: "Trois Jours dans la vie d'un yakuza"
+        author: Hideo Okuda
+        
+      - title: "Le Postier"
+        author: Charles Bukowski 
 
+      - title: "84K"
+        author: Claire North
+        
   - year: "Past years"
     books:
-      
+    
+    - title: "Les Délices de Tokyo"
+      author: Durian Sukegawa 
+        
     - title: "Who was Walt Disney?"
       author: Whitney Stewart 
       genre: biography
-        
+
+    - title: "La Peste"
+      author: Albert Camus
+      
     - title: "Yokozuna - Tome 1 to 2"
       genre: manga
       author: Jérôme Hamon & Marc Van Straceele
       year: 2020
 
-    - title: Les montagnes hallucinées
+    - title: "Metro 2033"
+      author: Dmitry Glukhovsky
+
+    - title: "Les Montagnes hallucinées"
       author: H. P. Lovecraft                                                                                         
                                                                                        ;
     - title: "Dans l'Abîme du Temps"
@@ -44,7 +62,7 @@ list:
       author: Hugh Thomas
       year: 2019
 
-    - title: 1Q84
+    - title: "1Q84"
       author: Haruki Murakami
 
     - title: "Dans la toile du temps"
@@ -53,13 +71,13 @@ list:
       year: 2019
       star: yes
 
-    - title: The Making of the Atomic bomb
+    - title: "The Making of the Atomic bomb"
       author: Richard Rhodes
 
-    - title: Into the Wild
+    - title: "Into the Wild"
       author: Jon Krakauer
 
-    - title: Into Thin Air
+    - title: "Into Thin Air"
       author: Jon Krakauer
       star: yes
 
@@ -67,57 +85,72 @@ list:
       author: Steven Levy
       genre: tech
 
-    - title: Riding Rockets
+    - title: "Sur la route"
+      author: Jack Kerouac
+      
+    - title: "Riding Rockets"
       author: Mike Mullane
       star: yes
 
-    - title: Fondation
+    - title: "Fondation"
       author: Isaac Asimov
       
-    - title: Tokyo Vice
+    - title: "Tokyo Vice"
       author: Jake Adelstein
       star: yes
       
-    - title: Masters of Doom
+    - title: "Masters of Doom"
       author: David Kushner
       star: yes
       
-    - title: Un roman français
+    - title: "Un Roman français"
       author: Frédéric Beigbeder
       
-    - title: American Prometheus
+    - title: "American Prometheus"
       author: Kai Bird
       
-    - title: Farenheit 451
+    - title: "Farenheit 451"
+      author: Ray Bradbury
+    
+    - title: "Bad city blues"
+      author: Tim Willocks
+      
+    - title: "Les chroniques martiennes"
       author: Ray Bradbury
       
-    - title: Les chroniques martiennes
-      author: Ray Bradbury
-      
-    - title: La Peste
+    - title: "La Peste"
       author: Albert Camus
       
-    - title: Ender's Game
+    - title: "Ender's Game"
       author: Orson Scott Card
       star: yes
       
-    - title: Axiomatique
+    - title: "Au secours pardon"
+      author: Frédéric Beigbeder
+      
+    - title: "Less than zero"
+      author: Bret Easton Ellis
+      
+    - title: "Axiomatique"
       author: Greg Egan
       
-    - title: What Do You Care What Other People Think?
+    - title: "What Do You Care What Other People Think?"
       author: Richard P Feynman
       star: yes
       
-    - title: Sapiens
+    - title: "Sapiens"
       author: Yuval Noah Harari
       star: yes
 
     - title: "Homo Deus: A Brief History of Tomorrow"
       author: Yuval Noah Harari
 
-    - title: Extension du domaine de la lutte
+    - title: "Extension du domaine de la lutte"
       author: Michel Houellebecq  
 
-    - title: 1984
-      author: George ORwell
+    - title: "Le Mythe de Ctuhlu"
+      author: H. P. Lovecraft  
+    
+    - title: "1984"
+      author: George Orwell
       star: yes
