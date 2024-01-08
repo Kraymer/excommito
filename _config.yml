@@ -13,10 +13,6 @@ feed:
   tags:
     except:
       - private
-  
-maps:
-  google:
-    api_key:      'AIzaSyDiswWoiEpfb14st7-VcFPtzLimC5Bhr4k'
     
 # Permalinks
 permalink: /:categories/:year/:month/:title/
