@@ -20,7 +20,7 @@ permalink: /:categories/:year/:month/:title/
 repository: kraymer/excommito
 
 # Setup
-url:                 kray.me
+url: http://kray.me
 
 # Set to '' in case of hosting on GitHub pages,
 # i.e. `http://<username>.github.io`
