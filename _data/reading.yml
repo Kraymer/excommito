@@ -1,6 +1,8 @@
 list:
 
   - year: "In progress"
+
+  - year: "2024"
     books:
       - title: "Midnight in Chernobyl"
         author: Adam Higginbotham
@@ -8,6 +10,10 @@ list:
                
   - year: "2023"
     books:
+
+      - title: "L'Echiquier du mal"
+        author: Dan Simmons
+        
       - title: "Bartleby le scribe"
         author: Herman Melville
         
