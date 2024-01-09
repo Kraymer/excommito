@@ -14,8 +14,8 @@ layout: null
     {% for post in site.posts limit:1000 %}
     {% if post.sitemap != false %} 
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
+        <title>{{ post.title | smartify | strip_html | normalize_whitespace | xml_escape}}</title>
+        <description>{{ post.excerpt  | smartify | strip_html | normalize_whitespace | xml_escape }}</description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
         <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
