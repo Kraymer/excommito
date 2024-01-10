@@ -1,7 +1,11 @@
 list:
 
   - year: "In progress"
-
+    books:
+      - title: "Voyage au bout de la nuit"
+        author: Louis-Ferdinand Céline
+        start_date: 8th January 2024
+        
   - year: "2024"
     books:
       - title: "Midnight in Chernobyl"
