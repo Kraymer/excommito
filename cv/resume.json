@@ -1,0 +1,148 @@
+{
+	"meta": {
+		"theme": "flat"
+	},
+
+	"basics": {
+		"name": "Fabrice Laporte",
+		"label": "Back-end Engineering Manager",
+		"image": "https://avatars.githubusercontent.com/u/84227?v=4",
+		"summary": "Python developer with 15+ years spent in start-ups which turned into successful businesses. Along my career I moved from Back-end developer roles to Head of Back-end where I help a team of 10+ engineers grow their skills and experience.",
+		"website": "https://kray.me",
+		"email": "fabrice.laporte+jobs@gmail.com",
+		"location": {
+			"city": "Bordeaux",
+			"countryCode": "FR"
+		},
+		"profiles": [{
+			"url": "https://github.com/kraymer",
+			"username": "kraymer",
+			"network": "github"
+		}]
+	},
+	"education": [{
+		"institution": "Université Bordeaux I",
+		"location": "Talence",
+		"area": "Informatique Multimédia Imagerie Médicale",
+		"studyType": "Master 2",
+		"startDate": "2000",
+		"endDate": "2005",
+		"gpa": "Mention Bien"
+	}],
+
+	"skills": [{
+			"keywords": ["Planning", "Decision-making", "Delegation"],
+			"level": "Senior",
+			"name": "Management"
+		},
+		{
+			"keywords": ["Python", "Django", "Postgres", "Docker", "Redis", "Celery", "shell"],
+			"level": "Senior",
+			"name": "Backend"
+		},
+		{
+			"keywords": ["EC2", "RDS", "Cloudfront", "Route53"],
+			"level": "Senior",
+			"name": "AWS"
+		}
+	],
+	"work": [
+		{
+			"name": "Yesboony Holding BV",
+			"summary": "Yesboony (200 employees) is the mother company of Yescapa and Goboony, two major players in the european campervan rental industry, that merged in July 2023.",
+			"startDate": "2023-07-01",
+			"highlights": ["participate as member of the technical leadership team to the thinking process dealing with the sister companies products gap evaluation and data migration issues in the context of the merger"]
+		},
+		{
+			"name": "Yescapa",
+			"summary": "Yescapa (100 employees, 15 when I joined) is the European leader in peer to peer motorhome and campervan hire. ",
+			"position": "Head of Back-end",
+			"location": "Bordeaux",
+			"website": "https://yescapa.com/",
+			"startDate": "2021-11-01",
+			"highlights": ["define the back-end recruitment strategy", 
+			"lead the effort to constantly adapt the organisation/methodology/tools to support team growth",
+			"get things done via coding, communicating or delegating",
+			"explain and illustrate the company strategic goals to the managers and ensure the message is properly communicated to the whole team"]
+		},
+		{
+			"summary": "",
+			"position": "Back-end and Infrastructure manager",
+			"location": "Bordeaux",
+			"website": "https://yescapa.com/",
+			"startDate": "2018-05-01",
+			"endDate": "2021-11-01",
+			"highlights": ["code strategic features with high impact on the business in the context of cancellations due to the covid crisis", "coordinate continuous integration effort and enforce a culture of deploy early and often (multiple times a day when necessary)", "work in close collaboration with product owner to shape the future roadmap"]
+		},
+		{
+			"position": "Django developer",
+			"location": "Bordeaux",
+			"website": "https://yescapa.com/",
+			"startDate": "2017-01-01",
+			"endDate": "2018-05-01"
+		},
+		{
+			"summary": "coog by Coopengo (40 empl, 5 when I joined) is an open-source dedicated insurance software based on Tryton ORM. A personal milestone as I incorporated python and opensource, hitherto hobbies, into my daily work.",
+			"name": "Coopengo",
+			"position": "Python developer",
+			"location": "Paris",
+			"website": "https://coopengo.com/",
+			"startDate": "2014-07-01",
+			"endDate": "2016-12-01",
+			"highlights": [
+				"sole developer on a strategic project to migrate a portfolio of +1 million insurance contracts"
+			]
+		},
+		{
+			"summary": "Balyo (200 empl., 3 when I joined)  makes autonomous robots for load movements.",
+			"highlights": [
+				"release manager and automation of build system (CMake, CDash)",
+				"lead source code management migration effort from SVN to Git"
+			],
+			"name": "Balyo",
+			"website": "https://balyo.com/",
+			"position": "R&D MATLAB/Qt developer",
+			"location": "Paris",
+			"startDate": "2010-07-01",
+			"endDate": "2014-06-01"
+		},
+		{
+			"name": "Lusis",
+			"website": "https://www.lusis.fr/",
+			"position": "C developer",
+			"location": "Paris",
+			"startDate": "2009-12-01",
+			"endDate": "2010-07-01"
+		},
+		{
+			"name": "Mauna Kea Technologies",
+			"summary": "MKT (120 empl., 15 when I joined) is the inventor of Cellvizio device that performs real-time in vivo cellular imaging. I joined a team of 8 C++/Qt developers working on an ISO 14971 (risk management) compliant medical software codebase that had significant performance constraints to satisfy. Incredible experience that ignited my *thing* for startups.",
+			"location": "Paris",
+			"position": "R&D C++/Qt developer",
+			"website": "https://www.maunakeatech.com/",
+			"endDate": "2009-08-01",
+			"startDate": "2005-09-01"
+		}
+	],
+
+	"interests": [{
+			"name": "Piano"
+		},
+		{
+			"name": "Chess"
+		},
+		{
+			"name": "Horology"
+		},
+		{
+			"name": "Open source",
+			"url": "https://www.maunakeatech.com/"
+			
+		},
+		{
+			"name": "Sci-fi books"
+		}
+	]
+
+}
+
