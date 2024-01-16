@@ -1,5 +1,5 @@
 {% assign post = include.post %}
-<li>
+
   <small>
     <time datetime="{{ post.date | date_to_xmlschema }}"><b>{{ post.date | date: include.format }}</b></time>
     {% if post.draft %}DRAFT{% endif %}
@@ -10,4 +10,4 @@
     <span>{{ post.title }}</span>
 
   </a>
-</li>
+
