@@ -138,5 +138,5 @@ collections:
     output: true
     permalink: /:collection/:name
   recipes:
-    output: false
+    output: true
     permalink: /:collection/:name
