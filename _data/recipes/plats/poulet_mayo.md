@@ -1,6 +1,3 @@
-Poulet Mayo de la RDC for 6
-==========
-
 ## Ingrédients
 
 {1 kg} poulet  
