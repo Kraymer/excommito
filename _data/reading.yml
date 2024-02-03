@@ -2,12 +2,18 @@ list:
 
   - year: "In progress"
     books:
-      - title: "Voyage au bout de la nuit"
-        author: Louis-Ferdinand Céline
-        start_date: 8th January 2024
+     books:
+      - title: "Napoléon"
+        author: Jacques Bainville
+        start_date: 30th January 2024 
         
   - year: "2024"
     books:
+      - title: "Voyage au bout de la nuit"
+        author: Louis-Ferdinand Céline
+        start_date: 8th January 2024
+        status: aborted
+        
       - title: "Midnight in Chernobyl"
         author: Adam Higginbotham
         start_date: 30th December 2023
