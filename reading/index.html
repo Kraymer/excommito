@@ -22,7 +22,8 @@ title: Reading
     </div>
     <div class="books">
       <ul class="reading-list {{ entry.year }}">
-        {% for book in entry.books %}
+        {% assign finished_books = entry.books | where_exp:"item", "item.status == blank" %}
+        {% for book in finished_books  %}
           {% if books_count > 1 %}<li>{% endif %}
           <a href="{{ book.link }}" alt="_blank" rel="nofollow noopener">{{
             book.title
