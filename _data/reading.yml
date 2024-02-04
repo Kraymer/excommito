@@ -2,7 +2,6 @@ list:
 
   - year: "In progress"
     books:
-     books:
       - title: "Napoléon"
         author: Jacques Bainville
         start_date: 30th January 2024 
