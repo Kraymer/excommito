@@ -6,15 +6,15 @@ title: Reading
 
   {% for entry in site.data.reading.list %}
   
-  {% assign books_count = entry.books | size %}
-
+  {% assign finished_books = entry.books | where_exp:"item", "item.status == blank" %}
+  {% assign finished_books_count = finished_books | size %}
   
   <div class="year-container">
     <div class="year">
       <h4>{{ entry.year }}</h4>
       <div class="number">
       {% if entry.year != "In progress" %}
-        {{ entry.books | size }} books
+        {{ finished_books_count  }} book{% if finished_books_count > 1 %}s{% endif %}
       {% else %}
         started {{ entry.books[0].start_date | timeago }}
       {% endif %}
@@ -22,15 +22,14 @@ title: Reading
     </div>
     <div class="books">
       <ul class="reading-list {{ entry.year }}">
-        {% assign finished_books = entry.books | where_exp:"item", "item.status == blank" %}
         {% for book in finished_books  %}
-          {% if books_count > 1 %}<li>{% endif %}
+
           <a href="{{ book.link }}" alt="_blank" rel="nofollow noopener">{{
             book.title
           }}</a>
           <span class="author">by {{ book.author }}</span
           >{% if book.star %}<span class="star">★</span>{% endif %}
-        {% if books_count > 1 %}</li>{% endif %}
+          <br>
         {% endfor %}
       </ul>
     </div>
