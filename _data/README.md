@@ -1,5 +1,5 @@
-To compile md files into html :
+Example of compiling md file to html :
 
-    recipe-grid-site recipes ../recipes
-    cd ../recipes
-    find . -type f -name "*.html" | xargs sed -i "s/[^[:alnum:]]for /\1pour /g"
+    recipe-grid poulet_mayo.md recipe.html
+    mkdir -p ${EXCOMMITO_ROOT}/recipes/poulet_mayo/
+    mv recipe.html ${EXCOMMITO_ROOT}/recipes/poulet_mayo/
