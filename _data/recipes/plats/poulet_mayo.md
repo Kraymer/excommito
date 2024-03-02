@@ -1,31 +1,25 @@
-## Ingrédients
-
-{1 kg} poulet  
-{1} oignon  
-{1} piment  
-{4} gousses d’ail  
-{1 tbsp} gingembre  
-{1 tbsp} persil  
-sel  
-poivre  
-paprika
-{5 tbsp} mayonnaise  
-{1} blanc de ciboulette  
-{1} poivron vert  
-
 ## Instructions
+
+    1 kg poulet  
+    1 oignon  
+    1 piment  
+    4 gousses d’ail  
+    1 tbsp gingembre  
+    1 tbsp persil  
+    5 tbsp mayonnaise  
+    1 poivron vert  
  
     assaisonnement vert := écraser(
-        poivron, 
+        poivron vert, 
         persil, 
-        ail, 
+        gousses d’ail, 
         gingembre, 
         oignon,
         piment
     )
 
     poulet assaisonné = macérer 1h (
-        poulet,
+        débiter en morceaux(poulet),
         assaisonnement vert,
         sel,
         poivre,
@@ -39,9 +33,8 @@ paprika
 
     griller au four 15min (
         empaqueter en papillotes (
-            débiter en morceaux(poulet grillé),
+            poulet grillé,
             mayonnaise,
             oignons brûlés
         )
     )
-
