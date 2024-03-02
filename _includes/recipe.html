@@ -11,7 +11,13 @@
     {% endif %}
     <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
         <div class="{{ articleclass }} post-content" itemprop="articleBody">
-            {{ post.content }}
+            <script>
+              function resizeIframe(obj) {
+                obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
+              }
+            </script>
+            <iframe style="width: 100%;" src="recipe.html" frameborder="0" scrolling="no" onload="resizeIframe(this)" /></iframe>
+
         </div>
     </article>
 
