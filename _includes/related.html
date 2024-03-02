@@ -14,6 +14,7 @@
       {% if forloop.index < 4 or plusone == true %}
         {% include post-list-item.html post=post format="%m/%d/%y" %}
       {% endif %}
+      <br>
     {% endfor %}
     
     {% for post in site.drafts %}
@@ -22,6 +23,7 @@
                 {% include post-list-item.html post=post format="%m/%d/%y" %}
             {% endif %}
         {% endfor %}
+        <br>
     {% endfor %}
     
     {% for page in site.pages %}
@@ -30,6 +32,7 @@
                 {% include post-list-item.html post=page format="%m/%d/%y" %}
             {% endif %}
         {% endfor %}
+        <br>
     {% endfor %}
   </ul>
 </aside>
