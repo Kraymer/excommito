@@ -2,12 +2,17 @@ list:
 
   - year: "In progress"
     books:
-      - title: "Napoléon"
-        author: Jacques Bainville
-        start_date: 30th January 2024 
+      - title: "La Tour de Babylone"
+        author: Ted Chiang
+        start_date: 11th March 2024
         
   - year: "2024"
     books:
+      - title: "Napoléon"
+        author: Jacques Bainville
+        start_date: 30th January 2024 
+        end_date: 11th March 2024
+      
       - title: "Voyage au bout de la nuit"
         author: Louis-Ferdinand Céline
         start_date: 8th January 2024
