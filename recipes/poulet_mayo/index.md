@@ -1,5 +1,5 @@
 ---
 layout:       recipe
-title:        Ile flottante
+title:        Poulet mayo
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout:       page
+layout:       recipe
 title:        Ile flottante
 ---
-
