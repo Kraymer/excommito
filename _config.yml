@@ -137,6 +137,7 @@ collections:
   chess:
     output: true
     permalink: /:collection/:name
-  recipes:
+  recipe:
     output: true
-    permalink: /:collection/:name
+    permalink: /recipes/:path
+    output: true
