@@ -90,8 +90,7 @@ python:
   color: '#949667'
   icon: /public/img/tags/python.png
   description: >
-    My langage of choice. I like the expressiveness and *batteries included* philosophy. I'm doing Django development for a living
-    since the beginning of this year.
+    My langage of choice. I like the expressiveness and *batteries included* philosophy.
 
 recipes:
   name: Recipes
