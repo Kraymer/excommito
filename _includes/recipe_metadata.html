@@ -1,0 +1,22 @@
+  <h1 class="post-title">
+    <a href="{{ post.url }}">{{ post.title }}</a>
+  </h1>
+
+{% include post_tags.html %}
+
+<div class="flexgrid">
+  <div class="post-metadata flexleft">
+        <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
+        on <span>{{ tags_content }}</span><br>
+        <i class='fa fa-share-alt'></i>
+        {% capture post_url_safe %}{{ post.permalink | absolute_url | url_encode }}{% endcapture %}
+        {% capture post_title_safe %}{{ post.title | url_encode}}{% endcapture %}
+       Share by <a href="mailto:?subject={{ post_title_safe }}&amp;body={{ post_url_safe }}" target='_blank'>mail</a>
+  </div>
+  <div class="post-metadata flexright">
+      <nobr>
+      <a href="https://github.com/Kraymer/excommito/commits/master/_recipe/{{ post.title | slugify }}/recipe.html">
+        <i class='fa fa-history'></i> History</a>
+      </nobr><br>
+  </div>
+</div>

@@ -1,6 +1,6 @@
 ---
 layout:       recipe
-permalink: /recipes/poulet_mayo/
-title:        Poulet mayo
+permalink: /recipes/ile-flottante/
+title:        Ile flottante
 ---
 {% include recipe.html post=page link_title=false %}
